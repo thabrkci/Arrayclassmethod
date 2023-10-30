@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\bin\Debug\net7.0\arrayclassmethod.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\bin\Debug\net7.0\arrayclassmethod.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\bin\Debug\net7.0\arrayclassmethod.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\bin\Debug\net7.0\arrayclassmethod.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\bin\Debug\net7.0\arrayclassmethod.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\refint\arrayclassmethod.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\arrayclassmethod.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\arrayclassmethod\obj\Debug\net7.0\ref\arrayclassmethod.dll
